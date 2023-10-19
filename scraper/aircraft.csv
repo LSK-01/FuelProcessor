@@ -1,0 +1,218 @@
+Title,"Image Link",Type,Seats,Speed,Range,"Price Per Hour"
+D-Jet,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/D-Jet-PrivateFly-AA9435.jpg,LightJets,3,"250 kts","1300 nm",1700
+"Cessna 510 Mustang",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-510-Mustang-PrivateFly-AA9429.jpg,LightJets,4,"330 kts","1050 nm",2000
+"Cessna C550 Citation II / IISP / S",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C550-Citation-II-IISP-S-PrivateFly-AB1077.jpg,LightJets,7,"335 kts","1739 nm",1801
+"Cessna Citation I",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-Citation-I-PrivateFly-AB1032.jpg,LightJets,6,"348 kts","1000 nm",1550
+"Cessna C550 Citation Bravo",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C550-Citation-Bravo-PrivateFly-AA9987.jpg,LightJets,7,"350 kts","1780 nm",2093
+"Cessna C560 Citation V",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C560-Citation-V-PrivateFly-AB1027.jpg,LightJets,7,"370 kts","1920 nm",2502
+"Eclipse 500",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Eclipse-500-PrivateFly-AB1009.jpg,LightJets,4,"375 kts","900 nm",2000
+"Cessna C525 Citation",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C525-Citation-PrivateFly-AA9962.jpg,LightJets,5,"380 kts","1000 nm",1883
+"Cessna C560 Citation Encore",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C560-Citation-Encore-PrivateFly-AA9998.jpg,LightJets,7,"380 kts","1700 nm",2700
+"Embraer Phenom 100",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Embraer-Phenom-100-PrivateFly-AA9999.jpg,LightJets,4,"380 kts","1078 nm",2100
+"Cessna C525 Citation CJ1",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C525-Citation-CJ1-PrivateFly-AB1072.jpg,LightJets,5,"381 kts","1050 nm",2047
+"Cessna C525 Citation CJ2",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C525-Citation-CJ2-PrivateFly-AA9972.jpg,LightJets,6,"389 kts","1400 nm",2047
+"Cessna C525 Citation CJ3",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C525-Citation-CJ3-PrivateFly-AA9977.jpg,LightJets,6,"389 kts","1488 nm",2138
+"Beechjet 400",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Beechjet-400-PrivateFly-AA9957.jpg,LightJets,6,"392 kts","1400 nm",2326
+"Sabreliner 40",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Sabreliner-40-PrivateFly-AB1042.jpg,LightJets,6,"400 kts","1200 nm",3000
+"Falcon 10 / 100",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-10-100-PrivateFly-AA9947.jpg,LightJets,7,"404 kts","1600 nm",3600
+"Cessna Citation M2",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-Citation-M2-PrivateFly-AB3133.jpg,LightJets,5,"404 kts","1580 nm",1850
+"Cessna Citation CJ2+",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-Citation-CJ2%2B-PrivateFly-AB5833.jpg,LightJets,7,"404 kts","1781 nm",2045
+"Learjet 24 / 25",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Learjet-24-25-PrivateFly-AB1014.jpg,LightJets,6,"418 kts","1430 nm",2500
+"Learjet 31",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Learjet-31-PrivateFly-AB1019.jpg,LightJets,7,"418 kts","1455 nm",2047
+"Learjet 35A",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Learjet-35A-PrivateFly-AB1046.jpg,LightJets,7,"418 kts","1900 nm",2718
+"Learjet 36A",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Learjet-36A-PrivateFly-AB1096.jpg,LightJets,6,"418 kts","2000 nm",2700
+"Hawker 400XP",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Hawker-400XP-PrivateFly-AB1087.jpg,LightJets,7,"420 kts","1400 nm",2830
+"Beech 390 Premier 1",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Beech-390-Premier-1-PrivateFly-AB1066.jpg,LightJets,6,"420 kts","1200 nm",2051
+"HondaJet HA-420",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/HondaJet-HA-420-PrivateFly-AB1091.jpg,LightJets,4,"420 kts","1180 nm",2007
+"Citation Ultra",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Citation-Ultra-PrivateFly-AB1082.jpg,LightJets,7,"430 kts","1960 nm",2319
+"Embraer Phenom 300",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Embraer-Phenom-300-PrivateFly-AB1004.jpg,LightJets,7,"450 kts","1800 nm",2350
+"Cessna C525 Citation CJ4",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C525-Citation-CJ4-PrivateFly-AA9982.jpg,LightJets,7,"453 kts","2002 nm",2300
+SJ30,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/SJ30-PrivateFly-AB1049.jpg,LightJets,6,"455 kts","2300 nm",3100
+"Nextant 400XT/XTi",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Nextant-400XT-PrivateFly-AB1051.jpg,LightJets,7,"471 kts","2003 nm",2350
+Title,"Image Link",Type,Seats,Speed,Range,"Price Per Hour"
+"Hawker 600",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Hawker-600-PrivateFly-AA9857.jpg,MediumJets,8,"400 kts","1090 nm",3000
+"Hawker 700/750",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Hawker-700-PrivateFly-AA1235.jpg,MediumJets,8,"402 kts","1960 nm",3000
+"Citation III",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Citation-III-PrivateFly-AA9880.jpg,MediumJets,8,"405 kts","1800 nm",2741
+"Falcon 20 / 200",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-20-200-PrivateFly-AA9867.jpg,MediumJets,9,"405 kts","2310 nm",3400
+"Citation VI",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C650-Citation-VI-PrivateFly-AA1264.jpg,MediumJets,8,"407 kts","1800 nm",3200
+"Citation VII",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C650-Citation-VII-PrivateFly-AA1204.jpg,MediumJets,8,"410 kts","1700 nm",3442
+"1124 Westwind",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/1124-Westwind-PrivateFly-AB1133.jpg,MediumJets,9,"415 kts","1800 nm",3500
+"Citation XL",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Citation-XL-PrivateFly-AA9904.jpg,MediumJets,8,"420 kts","1800 nm",2684
+"Falcon 50 / 50EX",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-50-50EX-PrivateFly-AA9718.jpg,MediumJets,9,"420 kts","3223 nm",4250
+"Citation XLS",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Citation-XLS-PrivateFly-AA9899.jpg,MediumJets,8,"420 kts","1850 nm",2684
+"Learjet 40 / 40XR",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Learjet-40-40XR-PrivateFly-AB1123.jpg,MediumJets,6,"425 kts","1824 nm",2355
+"1123 Commodore",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/1123-Commodore-PrivateFly-AB1103.jpg,MediumJets,7,"427 kts","1390 nm",3500
+"Citation Sovereign",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Citation-Sovereign-PrivateFly-AA9876.jpg,MediumJets,8,"428 kts","2643 nm",3533
+"1125 Astra",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/1125-Astra-PrivateFly-AA9885.jpg,MediumJets,8,"430 kts","1900 nm",2977
+BAe125-700,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/BA125-700-PrivateFly-AA1216.jpg,MediumJets,8,"430 kts","2400 nm",3200
+"Citation XLS+",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Citation-XLS-Plus-PrivateFly-AB8857.jpg,MediumJets,9,"430 kts","2000 nm",2918
+"Learjet 75",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Learjet-70-PrivateFly-AB1186.jpg,MediumJets,6,"432 kts","2060 nm",2500
+"Sabreliner 75",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Sabreliner-75-PrivateFly-AB1105.jpg,MediumJets,8,"435 kts","1713 nm",3000
+"Jetstar 8",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Jetstar-8-PrivateFly-AB1198.jpg,MediumJets,8,"437 kts","1562 nm",3000
+"Hawker 900/900XP",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Hawker-900-900XP-PrivateFly-AB1202.jpg,MediumJets,9,"440 kts","2500 nm",3200
+"Citation Latitude",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Citation-Latitude-PrivateFly-AA9877.jpg,MediumJets,8,"440 kts","2850 nm",3200
+"Pilatus PC-24",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Pilatus-PC-24-PrivateFly-AC1938.jpg,MediumJets,7,"440 kts","2035 nm",4000
+"Learjet 45 / 45XR",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Learjet-45-45XR-PrivateFly-AB1128.jpg,MediumJets,8,"445 kts","2000 nm",2989
+"Learjet 55",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Learjet-55-PrivateFly-AB1189.jpg,MediumJets,7,"447 kts","2100 nm",3000
+"Learjet 60",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Learjet-60-PrivateFly-AA9528.jpg,MediumJets,7,"447 kts","2200 nm",3139
+"Hawker 800/800XP",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Hawker-800-PrivateFly-AA7295.jpg,MediumJets,8,"447 kts","2540 nm",3000
+"G100/150 Astra",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/G100-150-Astra-PrivateFly-AA9862.jpg,MediumJets,8,"459 kts","3000 nm",3400
+"Sabreliner 60 / 65",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Sabreliner-60-65-PrivateFly-AB1181.jpg,MediumJets,7,"465 kts","1500 nm",3000
+BAe125-400,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/BAe125-400-PrivateFly-AB1138.jpg,MediumJets,7,"470 kts","1400 nm",4000
+"Legacy 450",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Legacy-450-PrivateFly-AB1184.jpg,MediumJets,8,"500 kts","2500 nm",3000
+Title,"Image Link",Type,Seats,Speed,Range,"Price Per Hour"
+"Avro Business Jet",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Avro-Business-Jet-PrivateFly-AA9615.jpg,LongRangeJets,46,"400 kts","1280 nm",10000
+"Dornier Executive 328JET",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Dornier-Executive-328JET-PrivateFly-AA9678.jpg,LongRangeJets,15,"405 kts","2000 nm",6550
+"Gulfstream G3",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G3-PrivateFly-AA9852.jpg,LongRangeJets,13,"410 kts","3650 nm",4333
+"Legacy 650",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Legacy-650-PrivateFly-AA9745.jpg,LongRangeJets,13,"420 kts","3900 nm",5300
+"Challenger 601",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Challenger-601-PrivateFly-AA9646.jpg,LongRangeJets,11,"424 kts","3200 nm",4103
+"Challenger 604",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Challenger-604-PrivateFly-AA9694.jpg,LongRangeJets,10,"424 kts","4077 nm",4732
+"A320 Prestige",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A320-Prestige-PrivateFly-AA1587.jpg,LongRangeJets,58,"430 kts","2800 nm",12500
+"Falcon 2000DX",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-2000DX-PrivateFly-AA9684.jpg,LongRangeJets,10,"430 kts","2975 nm",4500
+"Falcon 2000EX EASy",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-2000EX-EASy-PrivateFly-AA9708.jpg,LongRangeJets,10,"431 kts","3828 nm",4228
+"Challenger 600",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Challenger-600-PrivateFly-AA9637.jpg,LongRangeJets,10,"432 kts","2800 nm",4004
+"Gulfstream GIV",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-GIV-PrivateFly-AA9770.jpg,LongRangeJets,13,"440 kts","4200 nm",4732
+"Legacy 500",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Legacy-500-PrivateFly-AA9756.jpg,LongRangeJets,12,"440 kts","3000 nm",3300
+"Falcon 2000LX",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-2000LX-PrivateFly-AA9713.jpg,LongRangeJets,10,"441 kts","4000 nm",5396
+"Gulfstream G2",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G2-PrivateFly-AA9847.jpg,LongRangeJets,13,"442 kts","3650 nm",4245
+"Falcon 900 / 900EX",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-900-900EX-PrivateFly-AA9728.jpg,LongRangeJets,13,"447 kts","3800 nm",4931
+"Falcon 900LX",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-900LX-PrivateFly-AA9733.jpg,LongRangeJets,13,"447 kts","3800 nm",4931
+"A318 Elite",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A318-Elite-PrivateFly-AA9573.jpg,LongRangeJets,18,"450 kts","3800 nm",14000
+"Boeing 727 Executive",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-727-Executive-PrivateFly-AA9617.jpg,LongRangeJets,19,"450 kts","3900 nm",10000
+"Boeing Business Jet - BBJ",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-Business-Jet-BBJ-PrivateFly-AA9621.jpg,LongRangeJets,30,"450 kts","6141 nm",15000
+"Legacy 600",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Legacy-600-Executive-PrivateFly-AA9751.jpg,LongRangeJets,13,"450 kts","3250 nm",4504
+"Airbus 319 Corporate Jet",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Airbus-319-Corporate-Jet-PrivateFly-AA9608.jpg,LongRangeJets,30,"450 kts","5900 nm",16000
+"Hawker 1000",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Hawker-1000-PrivateFly-AA9765.jpg,LongRangeJets,8,"453 kts","3535 nm",4368
+"Challenger 650",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Challenger-650-PrivateFly-AB9916.png,LongRangeJets,12,"455 kts","4000 nm",4840
+"Challenger 300",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Challenger-300-PrivateFly-AA9632.jpg,LongRangeJets,8,"459 kts","3100 nm",4251
+"Challenger 850",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Challenger-850-PrivateFly-AA9668.jpg,LongRangeJets,13,"459 kts","2292 nm",4274
+"Gulfstream GV",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-GV-PrivateFly-AA9810.jpg,LongRangeJets,14,"459 kts","6250 nm",5187
+"Gulfstream G450",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G450-PrivateFly-AA9817.jpg,LongRangeJets,13,"459 kts","4200 nm",4958
+"Challenger 605",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Challenger-605-PrivateFly-AA9653.jpg,LongRangeJets,10,"459 kts","4077 nm",4800
+"Challenger 350",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Challenger-350-PrivateFly-AB6613.jpg,LongRangeJets,8,"460 kts","3200 nm",4300
+"Praetor 600",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Praetor-600-PrivateFly-AC2793.jpg,LongRangeJets,12,"466 kts","3719 nm",6207
+"Hawker 4000",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Hawker-4000-PrivateFly-AA9760.jpg,LongRangeJets,9,"470 kts","3390 nm",4700
+"Challenger 890",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Challenger-890-PrivateFly-AA9674.jpg,LongRangeJets,16,"471 kts","2028 nm",4350
+"Embraer Lineage 1000",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Embraer-Lineage-1000-PrivateFly-AA9679.jpg,LongRangeJets,16,"472 kts","4600 nm",9000
+"Cessna C750 Citation X",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-C750-Citation-X-PrivateFly-AA9630.jpg,LongRangeJets,8,"475 kts","3430 nm",4500
+"Falcon 8X",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-8X-PrivateFly-AB8779.jpg,LongRangeJets,13,"475 kts","6450 nm",9271
+"Falcon 7X",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-7X-PrivateFly-AA9723.jpg,LongRangeJets,13,"480 kts","5950 nm",5432
+"Gulfstream G200",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G200-PrivateFly-AA9842.jpg,LongRangeJets,8,"482 kts","3400 nm",4486
+"Gulfstream G280",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G280-PrivateFly-AA9837.jpg,LongRangeJets,8,"482 kts","3600 nm",5596
+"Gulfstream G350",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G350-PrivateFly-AA9830.jpg,LongRangeJets,14,"488 kts","3800 nm",4250
+"Gulfstream G400",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G400-PrivateFly-AA9822.jpg,LongRangeJets,12,"488 kts","4350 nm",4800
+"Gulfstream G500",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G500-PrivateFly-AC2628.jpg,LongRangeJets,14,"488 kts","5200 nm",12500
+"Gulfstream G650",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G650-PrivateFly-AA9575.jpg,LongRangeJets,14,"488 kts","7500 nm",12000
+"Cessna Citation Longitude",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Cessna-Citation-Longitude-PrivateFly-AA9631.jpg,LongRangeJets,8,"490 kts","4000 nm",3200
+"Gulfstream G300",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G300-PrivateFly-AA9832.jpg,LongRangeJets,12,"500 kts","3486 nm",4400
+"Gulfstream G550",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G550-PrivateFly-AA9582.jpg,LongRangeJets,15,"500 kts","6750 nm",5556
+"Bombardier Global 5000",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Bombardier-Global-5000-PrivateFly-AA9561.jpg,LongRangeJets,13,"511 kts","4724 nm",5500
+"Bombardier Global Express",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Bombardier-Global-Express-PrivateFly-AA9551.jpg,LongRangeJets,14,"511 kts","5320 nm",5641
+"Bombardier Global Express XRS",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Bombardier-Global-Express-XRS-PrivateFly-AA9547.jpg,LongRangeJets,14,"511 kts","6055 nm",5650
+"Bombardier Global 6000",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Bombardier-Global-6000-PrivateFly-AA9562.jpg,LongRangeJets,14,"511 kts","6055 nm",5650
+"Bombardier Global 7500",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Bombardier-Global-7500-PrivateFly-AC2723.jpeg,LongRangeJets,16,"530 kts","7700 nm",13000
+"Falcon 5X",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Falcon-5X-PrivateFly-AA9581.jpg,LongRangeJets,14,"595 kts","5200 nm",8519
+Title,"Image Link",Type,Seats,Speed,Range,"Price Per Hour"
+"An 28",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/An-28-PrivateFly-AA1438.jpg,RegionalAirliners,18,"190 kts","736 nm",4000
+"Shorts 330",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Shorts-330-PrivateFly-AA1526.jpg,RegionalAirliners,30,"190 kts","460 nm",8500
+"Let 410 / Let 420",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Let-410-Let-420-PrivateFly-AA5885.jpg,RegionalAirliners,19,"195 kts","295 nm",8500
+"CASA C-212",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/CASA-C-212-PrivateFly-AA1474.jpg,RegionalAirliners,24,"200 kts","750 nm",2000
+"EMB 110 Bandeirante",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/EMB-110-Bandeirante-PrivateFly-AA1550.jpg,RegionalAirliners,19,"210 kts","800 nm",8500
+"Shorts 360",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Shorts-360-PrivateFly-AA1515.jpg,RegionalAirliners,39,"210 kts","400 nm",8500
+"De Havilland DHC-6 Twin Otter",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/De-Havilland-DHC-6-Twin-Otter-PrivateFly-AA5877.jpg,RegionalAirliners,20,"210 kts","700 nm",1994
+"De Havilland DHC-7",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/De-Havilland-DHC-7-PrivateFly-AA1442.jpg,RegionalAirliners,54,"215 kts","1170 nm",8500
+"An 30",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/An-30-PrivateFly-AA1508.jpg,RegionalAirliners,50,"230 kts","1600 nm",8600
+"An 24",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/An-24-PrivateFly-AA1567.jpg,RegionalAirliners,52,"240 kts","1300 nm",8500
+"An 26",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/An-26-PrivateFly-AA5869.jpg,RegionalAirliners,40,"240 kts","1500 nm",8600
+"CASA CN-235",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/CASA-CN-235-PrivateFly-AA1479.jpg,RegionalAirliners,44,"240 kts","860 nm",3000
+"Fokker F50",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Fokker-F50-PrivateFly-AA1492.jpg,RegionalAirliners,58,"240 kts","1100 nm",8500
+"Dornier 228",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Dornier-228-PrivateFly-AA1553.jpg,RegionalAirliners,19,"245 kts","560 nm",8500
+"SA226 Metro",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/SA226-Metro-PrivateFly-AA1548.jpg,RegionalAirliners,19,"248 kts","900 nm",2000
+"An 32",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/An-32-PrivateFly-AA1557.jpg,RegionalAirliners,50,"250 kts","1500 nm",8000
+"Fokker F27",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Fokker-F27-PrivateFly-AA1504.jpg,RegionalAirliners,60,"260 kts","935 nm",8500
+"Jetstream 31 / 32",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Jetstream-31-32-PrivateFly-AA5944.jpg,RegionalAirliners,19,"264 kts","750 nm",8500
+ATP,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/ATP-PrivateFly-AA1562.jpg,RegionalAirliners,68,"270 kts","620 nm",8500
+"De Havilland DHC-8 100/200",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/De-Havilland-DHC-8-100-200-PrivateFly-AA1443.jpg,RegionalAirliners,40,"270 kts","1100 nm",8000
+ATR72,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/ATR72-PrivateFly-AA1458.jpg,RegionalAirliners,74,"280 kts","910 nm",4400
+"Saab 340",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Saab-340-PrivateFly-AA1563.jpg,RegionalAirliners,37,"280 kts","870 nm",8500
+"Beechcraft 1900",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Beechcraft-1900-PrivateFly-CC-AA4621.jpg,RegionalAirliners,19,"283 kts","700 nm",3000
+"De Havilland DHC-8 300",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/De-Havilland-DHC-8-300-PrivateFly-AA1568.jpg,RegionalAirliners,56,"285 kts","700 nm",8500
+"Jetstream 41",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Jetstream-41-PrivateFly-AA1560.jpg,RegionalAirliners,29,"295 kts","775 nm",8500
+"Gulfstream G1",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Gulfstream-G1-PrivateFly-AA1531.jpg,RegionalAirliners,18,"300 kts","1500 nm",2500
+ATR42,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/ATR42-PrivateFly-AA1477.jpg,RegionalAirliners,50,"300 kts","900 nm",3700
+"EMB 120 Brasilia",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/EMB-120-Brasilia-PrivateFly-AA1456.jpg,RegionalAirliners,30,"300 kts","850 nm",2000
+"Dornier 328",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Dornier-328-PrivateFly-AA1460.jpg,RegionalAirliners,33,"320 kts","900 nm",3446
+"De Havilland DHC-8 400",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/De-Havilland-DHC-8-400-PrivateFly-AA1529.jpg,RegionalAirliners,78,"350 kts","1400 nm",9000
+"BA146-300 / Avro RJ100",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/BA146-300-Avro-RJ100-PrivateFly-AA1473.jpg,RegionalAirliners,128,"360 kts","1490 nm",8000
+"Saab 2000",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Saab-2000-PrivateFly-AA1512.jpg,RegionalAirliners,58,"360 kts","1000 nm",5000
+"Dornier 328Jet",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Dornier-328Jet-PrivateFly-AA1494.jpg,RegionalAirliners,34,"360 kts","900 nm",4510
+"BA146-200 / Avro RJ85",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/BA146-200-Avro-RJ85-PrivateFly-AA6039.jpg,RegionalAirliners,112,"380 kts","1600 nm",8000
+"An 72",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/An-72-PrivateFly-AA1539.jpg,RegionalAirliners,68,"380 kts","1160 nm",7000
+"An 74",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/An-74-PrivateFly-AA1505.jpg,RegionalAirliners,52,"380 kts","1890 nm",7000
+"Yak 40",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Yak-40-PrivateFly-AA8217.jpg,RegionalAirliners,32,"400 kts","970 nm",8500
+Tu134,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Tu134-PrivateFly-AA1468.jpg,RegionalAirliners,96,"405 kts","1650 nm",8500
+"BA146-100/Avro RJ70",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/BA146-100-Avro-RJ70-PrivateFly-AA1483.jpg,RegionalAirliners,82,"412 kts","1660 nm",8000
+"Canadair Regional Jet CRJ200",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Canadair-Regional-Jet-CRJ200-PrivateFly-AA1463.jpg,RegionalAirliners,50,"414 kts","1645 nm",7000
+"EMB 145",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/EMB-145-PrivateFly-AA1462.jpg,RegionalAirliners,50,"420 kts","1600 nm",7000
+"Boeing 717",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-717-PrivateFly-AA1544.jpg,RegionalAirliners,117,"438 kts","1920 nm",8000
+"Fokker F100",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Fokker-F100-PrivateFly-AA6087.jpg,RegionalAirliners,109,"441 kts","1550 nm",8500
+"Canadair Regional Jet CRJ750",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Canadair-Regional-Jet-CRJ900-PrivateFly-AA1534.jpg,RegionalAirliners,75,"447 kts","1500 nm",7000
+An140,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/An140-PrivateFly-AA1471.jpg,RegionalAirliners,52,"450 kts","1500 nm",8500
+"Canadair Regional Jet CRJ700",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Canadair-Regional-Jet-CRJ700-PrivateFly-AA5875.jpg,RegionalAirliners,78,"459 kts","1700 nm",8000
+"EMB 170",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/EMB-170-PrivateFly-AA5878.jpg,RegionalAirliners,70,"461 kts","1800 nm",7000
+"EMB 195",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/EMB-195-PrivateFly-AA1565.jpg,RegionalAirliners,108,"461 kts","1800 nm",8000
+"EMB 175",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/EMB-175-PrivateFly-AA5879.jpg,RegionalAirliners,78,"461 kts","1800 nm",8000
+"EMB 190",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/EMB-190-PrivateFly-AA1542.jpg,RegionalAirliners,98,"461 kts","1800 nm",8000
+"Fokker F70",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Fokker-F70-PrivateFly-AA1445.jpg,RegionalAirliners,79,"465 kts","1600 nm",8500
+"EMB 135",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/EMB-135-PrivateFly-AA1485.jpg,RegionalAirliners,35,"470 kts","1700 nm",8076
+"Fokker F28",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Fokker-F28-PrivateFly-AA1545.jpg,RegionalAirliners,85,"470 kts","1200 nm",8500
+An148,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/An148-PrivateFly-AA1552.jpg,RegionalAirliners,70,"470 kts","1906 nm",7000
+"Canadair Regional Jet CRJ900",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Canadair-Regional-Jet-CRJ900-PrivateFly-AA8372.jpg,RegionalAirliners,90,"475 kts","1400 nm",7000
+Title,"Image Link",Type,Seats,Speed,Range,"Price Per Hour"
+"Boeing 737-200",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-737-200-PrivateFly-AA1629.jpg,LargeAirliners,130,"400 kts","2300 nm",8000
+"Yak 42",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Yak-42-PrivateFly-AA1576.jpg,LargeAirliners,120,"400 kts","1200 nm",9000
+"Boeing 737-300",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-737-300-PrivateFly-AA1583.jpg,LargeAirliners,149,"400 kts","2685 nm",8500
+"Boeing 737-400",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-737-400-PrivateFly-AA1611.jpg,LargeAirliners,170,"400 kts","2500 nm",8500
+"Boeing 737-700",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-737-700-PrivateFly-AA1618.jpg,LargeAirliners,149,"400 kts","2550 nm",8500
+"Boeing 757-300",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-757-300-PrivateFly-AA1646.jpg,LargeAirliners,250,"400 kts","3395 nm",9500
+"Boeing 747-200",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-747-200-PrivateFly-AA1572.jpg,LargeAirliners,450,"400 kts","6600 nm",13000
+"Ilyushin IL96",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Ilyushin-IL96-PrivateFly-AA1668.jpg,LargeAirliners,262,"400 kts","6195 nm",9000
+"Boeing 737-500",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-737-500-PrivateFly-AA1647.jpg,LargeAirliners,130,"405 kts","2500 nm",8000
+"McDonnell Douglas MD82",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/McDonnell-Douglas-MD82-PrivateFly-AA1678.jpg,LargeAirliners,172,"405 kts","1900 nm",8000
+A330,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A330-PrivateFly-AA1613.jpg,LargeAirliners,280,"405 kts","5620 nm",10000
+"Boeing 747-400",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-747-400-PrivateFly-AA1616.jpg,LargeAirliners,450,"410 kts","7260 nm",16000
+A321,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A321-PrivateFly-AB3827.jpg,LargeAirliners,180,"410 kts","2325 nm",9000
+"Boeing 777-300",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-777-300-PrivateFly-AA1641.jpg,LargeAirliners,430,"410 kts","6015 nm",16000
+A380,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A380-PrivateFly-AA6757.jpg,LargeAirliners,500,"410 kts","8200 nm",40000
+"Boeing 737-600",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-737-600-PrivateFly-AA1676.jpg,LargeAirliners,130,"425 kts","3050 nm",8500
+"Boeing 767-300",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-767-300-PrivateFly-AA1653.jpg,LargeAirliners,270,"428 kts","5500 nm",12000
+A320,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A320-PrivateFly-AA1679.jpg,LargeAirliners,140,"430 kts","2800 nm",10000
+"BAC 1-11",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/BAC-1-11-PrivateFly-AA1593.jpg,LargeAirliners,24,"430 kts","1480 nm",8000
+"Boeing 737-800",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-737-800-PrivateFly-AA1619.jpg,LargeAirliners,189,"430 kts","3585 nm",8500
+"Boeing 767-200 / 200ER",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-767-200-200ER-PrivateFly-AA1599.jpg,LargeAirliners,225,"430 kts","6590 nm",12000
+"Boeing 767-400",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-767-400-PrivateFly-AA1672.jpg,LargeAirliners,300,"430 kts","5625 nm",12000
+A310,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A310-PrivateFly-AA1654.jpg,LargeAirliners,240,"435 kts","4350 nm",10234
+"McDonnell Douglas MD83",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/McDonnell-Douglas-MD83-PrivateFly-AA1699.JPG,LargeAirliners,172,"438 kts","2200 nm",8149
+"Boeing 757-200",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-757-200-PrivateFly-CC-AA4921.JPG,LargeAirliners,210,"438 kts","3930 nm",9968
+"McDonnell Douglas MD87",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/McDonnell-Douglas-MD87-PrivateFly-AA1693.jpg,LargeAirliners,130,"438 kts","3437 nm",8248
+Tu154,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Tu154-PrivateFly-AA1669.jpg,LargeAirliners,180,"440 kts","3500 nm",9000
+"McDonnell Douglas DC9-30",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/McDonnell-Douglas-DC9-30-PrivateFly-AA1643.jpg,LargeAirliners,115,"443 kts","1670 nm",7000
+A300,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A300-PrivateFly-AA5865.jpg,LargeAirliners,255,"447 kts","4160 nm",10000
+Tu204,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Tu204-PrivateFly-AA1657.jpg,LargeAirliners,212,"459 kts","2591 nm",9000
+"Boeing 727-200",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-727-200-PrivateFly-AA1675.jpg,LargeAirliners,189,"467 kts","2370 nm",9000
+A340-300,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A340-300-PrivateFly-AA1650.jpg,LargeAirliners,330,"470 kts","7100 nm",9500
+"McDonnell Douglas MD90",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/McDonnell-Douglas-MD90-PrivateFly-AA1666.jpg,LargeAirliners,172,"470 kts","2200 nm",8000
+"McDonnell Douglas DC8",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/McDonnell-Douglas-DC8-PrivateFly-AA1606.jpg,LargeAirliners,259,"470 kts","4000 nm",8000
+A318,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A318-PrivateFly-AB3859.jpg,LargeAirliners,129,"470 kts","1500 nm",8000
+A319,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A319-PrivateFly-AA1597.jpg,LargeAirliners,145,"470 kts","1830 nm",8000
+"Lockheed Tristar 500",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Lockheed-Tristar-500-PrivateFly-AA1683.jpg,LargeAirliners,220,"481 kts","5297 nm",8500
+A340-500,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A340-500-PrivateFly-AA1661.jpg,LargeAirliners,400,"490 kts","8500 nm",18000
+A340-600,//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/A340-600-PrivateFly-AB3860.jpg,LargeAirliners,420,"490 kts","7500 nm",20000
+"Boeing 787-8 Dreamliner",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-787-8-Dreamliner-PrivateFly-AB9095.jpg,LargeAirliners,40,"490 kts","14000 nm",13000
+"McDonnell Douglas DC9-50",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/McDonnell-Douglas-DC9-50-PrivateFly-AA1596.jpg,LargeAirliners,139,"500 kts","1795 nm",7000
+"McDonnell Douglas DC10",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/McDonnell-Douglas-DC10-PrivateFly-AA1592.jpg,LargeAirliners,300,"505 kts","4000 nm",8500
+"Boeing 737-900",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-737-900-PrivateFly-AA1667.jpg,LargeAirliners,189,"511 kts","3200 nm",9000
+"Ilyushin IL86",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Ilyushin-IL86-PrivateFly-AA1631.jpg,LargeAirliners,280,"512 kts","1944 nm",9000
+"Lockheed Tristar",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Lockheed-Tristar-PrivateFly-AA1659.jpg,LargeAirliners,250,"526 kts","3680 nm",8500
+"Boeing 777-200 / 200LR",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/Boeing-777-200-200LR-PrivateFly-AA1652.jpg,LargeAirliners,400,"535 kts","7700 nm",14000
+"McDonnell Douglas MD11",//s3-eu-west-1.amazonaws.com/images.privatefly.com/images/aircraft/McDonnell-Douglas-MD11-PrivateFly-AA1674.jpg,LargeAirliners,310,"542 kts","7240 nm",9000
